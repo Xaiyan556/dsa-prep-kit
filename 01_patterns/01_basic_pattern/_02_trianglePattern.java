@@ -1,4 +1,4 @@
-public class trianglePattern {
+public class _02_trianglePattern {
     public static void main(String[] args) {
 
         int n = 4;   // number of rows

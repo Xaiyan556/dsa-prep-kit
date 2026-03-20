@@ -27,3 +27,10 @@
 123
 1234
 ```
+## 05 character pyramid Pattern
+```
+A
+BC
+DEF
+GHIJ
+```

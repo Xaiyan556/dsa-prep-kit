@@ -1,4 +1,4 @@
-public class HalfPyramidNumbers {
+public class _04_HalfPyramidNumbers {
 
     public static void main(String[] args) {
 

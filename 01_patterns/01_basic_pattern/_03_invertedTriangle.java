@@ -1,4 +1,4 @@
-public class InvertedTriangle {
+public class _03_InvertedTriangle {
     public static void main(String[] args) {
 
         int n = 4; // number of rows

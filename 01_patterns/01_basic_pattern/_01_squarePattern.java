@@ -1,4 +1,4 @@
-public class SquarePattern {
+public class _01_SquarePattern {
     public static void main(String[] args) {
 
         int n = 4;
