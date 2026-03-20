@@ -1,4 +1,4 @@
-public class StarPattern {
+public class trianglePattern {
     public static void main(String[] args) {
 
         int n = 4;   // number of rows
