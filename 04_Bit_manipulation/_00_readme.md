@@ -28,7 +28,7 @@
 
 > Determine parity using bitwise operation
 
-🔗 [View Code]([./1_even_odd.java](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/04_Bit_manipulation/_02_OddEven.java))
+🔗 [View Code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/04_Bit_manipulation/_02_OddEven.java)
 
 ---
 
@@ -36,7 +36,7 @@
 
 > Extract the bit at position `i`
 
-🔗 [View Code]([./2_get_ith_bit.java](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/04_Bit_manipulation/_03_GetIthBit.java))
+🔗 [View Code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/04_Bit_manipulation/_03_GetIthBit.java)
 
 ---
 
@@ -44,7 +44,7 @@
 
 > Turn ON the i-th bit
 
-🔗 [View Code]([./3_set_ith_bit.java](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/04_Bit_manipulation/_04_SetIthBit.java))
+🔗 [View Code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/04_Bit_manipulation/_04_SetIthBit.java)
 
 ---
 
@@ -52,7 +52,7 @@
 
 > Turn OFF the i-th bit
 
-🔗 [View Code]([./4_clear_ith_bit.java](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/04_Bit_manipulation/_05_ClearItBit.java))
+🔗 [View Code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/04_Bit_manipulation/_05_ClearItBit.java)
 
 ---
 
@@ -60,7 +60,7 @@
 
 > Set bit to 0 or 1 dynamically
 
-🔗 [View Code]([./5_update_ith_bit.java](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/04_Bit_manipulation/_06_UpdateIthBit.java))
+🔗 [View Code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/04_Bit_manipulation/_06_UpdateIthBit.java)
 
 ---
 
@@ -68,7 +68,7 @@
 
 > Flip the i-th bit
 
-🔗 [View Code]([./6_toggle_ith_bit.java](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/04_Bit_manipulation/_07_ToggleIthBit.java))
+🔗 [View Code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/04_Bit_manipulation/_07_ToggleIthBit.java)
 
 ---
 
@@ -76,7 +76,7 @@
 
 > Remove last `i` bits
 
-🔗 [View Code]([./7_clear_last_i_bits.java](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/04_Bit_manipulation/_08_ClearLastIBits.java))
+🔗 [View Code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/04_Bit_manipulation/_08_ClearLastIBits.java)
 
 ---
 
@@ -84,7 +84,7 @@
 
 > Clear bits between positions `i` and `j`
 
-🔗 [View Code]([./8_clear_range_bits.java](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/04_Bit_manipulation/_09_ClearRange.java))
+🔗 [View Code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/04_Bit_manipulation/_09_ClearRange.java)
 
 ---
 
@@ -92,7 +92,7 @@
 
 > Efficient bit-based check
 
-🔗 [View Code]([./9_power_of_4.java](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/04_Bit_manipulation/_10_PowerOfFour.java))
+🔗 [View Code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/04_Bit_manipulation/_09_ClearRange.java)
 
 ---
 
@@ -100,7 +100,7 @@
 
 > Classic trick using `(n & (n-1))`
 
-🔗 [View Code]([./10_power_of_2.java](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/04_Bit_manipulation/_11_PowerOfTwo.java))
+🔗 [View Code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/04_Bit_manipulation/_11_PowerOfTwo.java)
 
 ---
 
@@ -108,7 +108,7 @@
 
 > Count number of 1s in binary
 
-🔗 [View Code]([./11_count_set_bits.java](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/04_Bit_manipulation/_12_CountSetBits.java))
+🔗 [View Code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/04_Bit_manipulation/_12_CountSetBits.java)
 
 ---
 
@@ -116,7 +116,7 @@
 
 > Use Java's optimized method
 
-🔗 [View Code]([./12_builtin_bitcount.java](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/04_Bit_manipulation/_13_InbuiltSetbitcounter.java))
+🔗 [View Code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/04_Bit_manipulation/_13_InbuiltSetbitcounter.java)
 
 ---
 
@@ -124,7 +124,7 @@
 
 > Compute `a^n` efficiently
 
-🔗 [View Code]([./13_fast_exponentiation.java](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/04_Bit_manipulation/_14_FastExponentiation.java))
+🔗 [View Code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/04_Bit_manipulation/_14_FastExponentiation.java)
 
 ---
 
