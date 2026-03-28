@@ -1,5 +1,3 @@
----
-
 # 🧠 DSA Prep Kit
 
 > 🎯 **Master Data Structures & Algorithms with Pattern-Based Learning**
@@ -83,19 +81,6 @@ This repository is a **structured DSA roadmap** designed for:
 
 ---
 
-## 📈 Progress Tracker
-
-| Topic     | Status |
-| --------- | ------ |
-| Arrays    | ⬜      |
-| Strings   | ⬜      |
-| Recursion | ⬜      |
-| Trees     | ⬜      |
-| Graphs    | ⬜      |
-| DP        | ⬜      |
-
----
-
 ## 🛠️ Repo Structure
 
 ```text
@@ -118,15 +103,6 @@ DSA-Prep-Kit/
 * ✅ Identify patterns
 * 🔁 Revise high-frequency problems
 * 🎯 Focus on *why*, not just *how*
-
----
-
-## 🚀 Upcoming Enhancements
-
-* 🏷️ Difficulty tagging (Easy/Medium/Hard)
-* 🏢 Company-wise questions
-* ⏱️ Time complexity annotations
-* 📊 Progress dashboard
 
 ---
 
