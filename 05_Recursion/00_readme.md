@@ -16,7 +16,7 @@ Understood. You want to **replace this current Bit Manipulation sheet with a Rec
 
 > Print numbers using recursion
 
-🔗 *Add your code link*
+🔗 [view code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/05_Recursion/_01_printOneToN.java)
 
 ---
 
@@ -24,7 +24,7 @@ Understood. You want to **replace this current Bit Manipulation sheet with a Rec
 
 > Reverse printing using recursion
 
-🔗 *Add your code link*
+🔗 [view code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/05_Recursion/_02_printNToOne.java)
 
 ---
 
@@ -32,7 +32,7 @@ Understood. You want to **replace this current Bit Manipulation sheet with a Rec
 
 > Compute sum recursively
 
-🔗 *Add your code link*
+🔗 [view code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/05_Recursion/_05_printSumOfN.java)
 
 ---
 
@@ -40,7 +40,7 @@ Understood. You want to **replace this current Bit Manipulation sheet with a Rec
 
 > Classic recursion problem
 
-🔗 *Add your code link*
+🔗 [view code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/05_Recursion/_03_factorial.java)
 
 ---
 
@@ -48,7 +48,7 @@ Understood. You want to **replace this current Bit Manipulation sheet with a Rec
 
 > Compute nth Fibonacci (basic recursion)
 
-🔗 *Add your code link*
+🔗 [view code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/05_Recursion/_04_fibbonacci.java)
 
 ---
 
@@ -56,7 +56,7 @@ Understood. You want to **replace this current Bit Manipulation sheet with a Rec
 
 > Verify sorted order recursively
 
-🔗 *Add your code link*
+🔗 [view code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/05_Recursion/_06_CheckSorted.java)
 
 ---
 
@@ -64,7 +64,7 @@ Understood. You want to **replace this current Bit Manipulation sheet with a Rec
 
 > Find first index of a key
 
-🔗 *Add your code link*
+🔗 [view code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/05_Recursion/_07_FirstOccurence.java)
 
 ---
 
@@ -72,7 +72,7 @@ Understood. You want to **replace this current Bit Manipulation sheet with a Rec
 
 > Find last index of a key
 
-🔗 *Add your code link*
+🔗 [view code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/05_Recursion/_08_LastOccurrence.java)
 
 ---
 
@@ -80,7 +80,7 @@ Understood. You want to **replace this current Bit Manipulation sheet with a Rec
 
 > Basic recursion approach
 
-🔗 *Add your code link*
+🔗 [view code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/05_Recursion/_09_fast_power.java)
 
 ---
 
@@ -88,7 +88,8 @@ Understood. You want to **replace this current Bit Manipulation sheet with a Rec
 
 > Divide & conquer (O(log n))
 
-🔗 *Add your code link*
+🔗 [view code]()
+
 
 ---
 
@@ -96,7 +97,7 @@ Understood. You want to **replace this current Bit Manipulation sheet with a Rec
 
 > Count ways to tile a 2×n board
 
-🔗 *Add your code link*
+🔗 [view code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/05_Recursion/_10_TilingProblemRecursive.java)
 
 ---
 
@@ -104,7 +105,7 @@ Understood. You want to **replace this current Bit Manipulation sheet with a Rec
 
 > Use recursion + visited array
 
-🔗 *Add your code link*
+🔗 [view code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/05_Recursion/_11_RemoveDuplicates.java)
 
 ---
 
@@ -112,7 +113,7 @@ Understood. You want to **replace this current Bit Manipulation sheet with a Rec
 
 > Count ways friends can remain single or pair up
 
-🔗 *Add your code link*
+🔗 [view code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/05_Recursion/_12_FriendsPairingRecursive.java)
 
 ---
 
@@ -120,7 +121,7 @@ Understood. You want to **replace this current Bit Manipulation sheet with a Rec
 
 > Generate valid binary strings
 
-🔗 *Add your code link*
+🔗 [view code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/05_Recursion/_13_BinaryStrings.java)
 
 ---
 
@@ -128,7 +129,7 @@ Understood. You want to **replace this current Bit Manipulation sheet with a Rec
 
 > Move disks between rods
 
-🔗 *Add your code link*
+🔗 [view code]()
 
 ---
 
