@@ -1,5 +1,3 @@
-Understood. You want to **replace this current Bit Manipulation sheet with a Recursion-focused version**, keeping the same clean, Obsidian-style structure. Let’s rebuild it precisely. 🚀
-
 ---
 
 # 🧠 Recursion – Practice & Revision
