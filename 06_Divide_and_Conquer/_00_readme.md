@@ -108,3 +108,21 @@ Divide & Conquer (D&C) is a paradigm where you:
 🔗 [view code]()
 
 ---
+
+## 🧠 Core Template
+
+```java
+// Generic Divide & Conquer Template
+function solve(problem) {
+    // 🟢 Base Case
+    if (base_case) {
+        return answer;
+    }
+
+    // 🔵 Divide
+    left = solve(left_half);
+    right = solve(right_half);
+
+    // 🟣 Merge
+    return merge(left, right);
+}
