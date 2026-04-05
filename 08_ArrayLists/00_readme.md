@@ -12,7 +12,7 @@
 
 > Learn core ArrayList methods
 
-🔗 [view code]()
+🔗 [view code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/08_ArrayLists/BasicOperation.java)
 
 ---
 
@@ -28,7 +28,7 @@
 
 > Reverse elements manually
 
-🔗 [view code]()
+🔗 [view code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/08_ArrayLists/ReverseTraversal.java)
 
 ---
 
@@ -36,7 +36,7 @@
 
 > Iterate and track max value
 
-🔗 [view code]()
+🔗 [view code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/08_ArrayLists/MaximumElement.java)
 
 ---
 
@@ -44,7 +44,7 @@
 
 > Swap using indices
 
-🔗 [view code]()
+🔗 [view code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/08_ArrayLists/SwapTwoNumbers.java)
 
 ---
 
@@ -58,9 +58,9 @@
 
 ### 7. Pair Sum (Sorted)
 > brute force
-🔗 [view code]()
+🔗 [view code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/08_ArrayLists/PairSumBruteForce.java)
 > Two pointer approach
-🔗 [view code]()
+🔗 [view code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/08_ArrayLists/PairSumTwoPointer.java)
 
 ---
 
@@ -131,7 +131,7 @@
 ### 16. Convert ArrayList to 2D array
 > Convert a 2D ArrayList to a 2D array
 
-🔗 [view code]()
+🔗 [view code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/08_ArrayLists/ConvertTo2DArray.java)
 
 ---
 ## 🧠 Core Operations
