@@ -57,9 +57,9 @@
 ---
 
 ### 7. Pair Sum (Sorted)
-
+> brute force
+🔗 [view code]()
 > Two pointer approach
-
 🔗 [view code]()
 
 ---
