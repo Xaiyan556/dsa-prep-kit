@@ -128,7 +128,14 @@
 
 ---
 
+### 16. Convert ArrayList to 2D array
+> Convert a 2D ArrayList to a 2D array
+
+🔗 [view code]()
+
+---
 ## 🧠 Core Operations
+
 
 ```java
 ArrayList<Integer> list = new ArrayList<>();
