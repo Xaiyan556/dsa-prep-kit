@@ -8,7 +8,7 @@
 
 ---
 
-### 1. Print All Subsets
+### 1. Print All Subsets of a String
 
 > Generate all subsets using backtracking
 
@@ -63,8 +63,14 @@
 🔗 [view code]()
 
 ---
+## 8. Grid Path Problems
 
-### 8. Rat in a Maze
+> These problems involve exploring paths in a 2D grid using backtracking
+
+🔗 [view code]()
+
+---
+### 9. Rat in a Maze
 
 > Find all paths from source to destination
 
@@ -72,7 +78,7 @@
 
 ---
 
-### 9. Word Search
+### 10. Word Search
 
 > Search word in 2D grid
 
@@ -80,7 +86,7 @@
 
 ---
 
-### 10. Palindrome Partitioning
+### 11. Palindrome Partitioning
 
 > Partition string into palindromes
 
@@ -88,7 +94,7 @@
 
 ---
 
-### 11. Letter Combinations (Phone Digits)
+### 12. Letter Combinations (Phone Digits)
 
 > Generate strings from digit mapping
 
@@ -96,7 +102,7 @@
 
 ---
 
-### 12. M-Coloring Problem
+### 13. M-Coloring Problem
 
 > Color graph using M colors
 
@@ -104,7 +110,7 @@
 
 ---
 
-### 13. Knight’s Tour
+### 14. Knight’s Tour
 
 > Visit all cells exactly once
 
@@ -112,7 +118,7 @@
 
 ---
 
-### 14. Restore IP Addresses
+### 16. Restore IP Addresses
 
 > Generate valid IP combinations
 
@@ -120,7 +126,7 @@
 
 ---
 
-### 15. Partition into K Subsets
+### 17. Partition into K Subsets
 
 > Divide into equal sum subsets
 
