@@ -158,14 +158,3 @@ GHIJ
 3. 🔄 Convert into loops
 4. ⚡ Dry run once
 
----
-
-## 📌 Pro Tip
-
-> Every advanced pattern is just a **combination of basic patterns**.
-
----
-
-If you want next step 🚀
-👉 I can map **Basic → Advanced → Recursion patterns roadmap**
-👉 Or generate **Java solutions (with comments)** for missing ones
