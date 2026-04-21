@@ -350,13 +350,4 @@
 3. 🔄 Convert to code
 4. ⚡ Optimize spacing
 
----
 
-## 📌 Pro Tip
-
-> If you can **visualize the pattern**, coding becomes trivial.
-
----
-
-If you want next upgrade 🚀
-👉 I can generate **Java implementations (fully commented)** for all 18 patterns or convert this into a **GitHub README with preview images + badges**
