@@ -1,10 +1,17 @@
 
 
 # 🔹 Basic Pattern
+### tags
 
+ [ ] Not Done
+ [✔] Completed
+ [★] Revision Needed
+ 
+ ----
 > 🎯 Goal: Build loop intuition → understand structure → prepare for advanced patterns
 
-## 01 Square Pattern
+## 01 Square Pattern 
+`easy| [✔] `
 
 ```
 * * * *
@@ -17,8 +24,8 @@
 
 ---
 
-## 02 Triangle Pattern
-
+## 02 Triangle Pattern 
+`easy| [✔] `
 ```
 *
 * *
@@ -31,7 +38,7 @@
 ---
 
 ## 03 Inverted Triangle Pattern
-
+`easy+| [✔] `
 ```
 * * * *
 * * *
@@ -44,7 +51,7 @@
 ---
 
 ## 04 Half-Pyramid Number Pattern
-
+`easy+| [✔] `
 ```
 1
 12
@@ -57,7 +64,7 @@
 ---
 
 ## 05 Character Pyramid Pattern
-
+`easy| [✔] `
 ```
 A
 BC
@@ -70,7 +77,7 @@ GHIJ
 ---
 
 ## 06 Inverted Number Pattern
-
+`easy+| [✔] `
 ```
 1234
 123
@@ -83,7 +90,7 @@ GHIJ
 ---
 
 ## 07 Continuous Number Triangle
-
+`easy| [✔] `
 ```
 1
 2 3
@@ -96,7 +103,7 @@ GHIJ
 ---
 
 ## 08 0-1 Triangle (Basic)
-
+`easy| [✔] `
 ```
 1
 0 1
@@ -109,7 +116,7 @@ GHIJ
 ---
 
 ## 09 Hollow Square Pattern
-
+`medium| [✔] `
 ```
 * * * *
 *     *
@@ -122,7 +129,7 @@ GHIJ
 ---
 
 ## 10 Right-Aligned Triangle
-
+`medium| [✔] `
 ```
       *
     * *
