@@ -22,7 +22,7 @@
 ---
 
 ### 1. Hollow Rectangle
-
+`easy+| [✔] `
 > Print rectangle with borders only
 
 ```
@@ -38,7 +38,7 @@
 ---
 
 ### 2. Inverted Rotated Half Pyramid
-
+`easy+| [✔] `
 > Right-aligned decreasing pattern
 
 ```
@@ -54,7 +54,7 @@
 ---
 
 ### 3. Inverted Half Pyramid (Numbers)
-
+`easy| [✔] `
 > Numbers decrease row-wise
 
 ```
@@ -70,7 +70,7 @@
 ---
 
 ### 4. Floyd’s Triangle
-
+`easy| [✔] `
 > Continuous number pattern
 
 ```
@@ -86,7 +86,7 @@
 ---
 
 ### 5. 0-1 Triangle
-
+`easy+| [✔] `
 > Based on (i + j) parity logic
 
 ```
@@ -102,7 +102,7 @@
 ---
 
 ### 6. Butterfly Pattern
-
+`hard| [✔] `
 > Mirror + symmetry based pattern
 
 ```
@@ -122,7 +122,7 @@
 ---
 
 ### 7. Solid Rhombus
-
+`medium| [✔] `
 > Shifted square using spaces
 
 ```
@@ -138,7 +138,7 @@
 ---
 
 ### 8. Hollow Rhombus
-
+`medium+| [✔] `
 > Borders only rhombus
 
 ```
@@ -154,7 +154,7 @@
 ---
 
 ### 9. Diamond Pattern
-
+`medium | [✔] `
 > Pyramid + inverted pyramid
 
 ```
@@ -174,7 +174,7 @@
 ---
 
 ### 10. Number Pyramid
-
+`hard | [✔] `
 > Center-aligned increasing numbers
 
 ```
@@ -190,7 +190,7 @@
 ---
 
 ### 11. Palindrome Pattern
-
+`medium+| [✔] `
 > Symmetric number structure
 
 ```
