@@ -17,19 +17,10 @@
 
 ## 🧩 Problems
 
----
-
-## 🟢 01 Input & Output
-
-`[Easy | Basics]`
-
-> Read and print array
-
-🔗 [code]()
 
 ---
 
-## 🟢 02 Linear Search
+## 🟢 01 Linear Search
 
 `[Easy | Traversal]`
 
@@ -39,17 +30,31 @@
 [1,3,5,7], key=5 → index=2
 ```
 
-🔗 [code]()
+🔗 [code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/02_arrays/01_1-D_arrays/_01_Linear_Search.java)
 
 ---
 
-## 🟢 03 Find Largest Element
+## 🟢 02 Find Largest Element
 
 `[Easy | Traversal]`
 
 > Max value in array
 
-🔗 [code]()
+🔗 [code-I](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/02_arrays/01_1-D_arrays/_02_Largest_NumberI.java)
+
+🔗 [code-II](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/02_arrays/01_1-D_arrays/_02_Largest_NumberII.java)
+
+---
+
+
+## 🟢 03 Find smallest Element
+
+`[Easy | Traversal]`
+
+> Min value in array
+
+🔗 [code-I](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/02_arrays/01_1-D_arrays/_03_Smallest_number.java)
+
 
 ---
 
@@ -61,7 +66,7 @@
 [1,2,3] → [3,2,1]
 ```
 
-🔗 [code]()
+🔗 [code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/02_arrays/01_1-D_arrays/_05_ReverseArray.java)
 
 ---
 
@@ -75,7 +80,7 @@
 Time: O(log n)
 ```
 
-🔗 [code]()
+🔗 [code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/02_arrays/01_1-D_arrays/_04_binary_Search.java)
 
 ---
 
@@ -85,7 +90,7 @@ Time: O(log n)
 
 > Print all pairs
 
-🔗 [code]()
+🔗 [code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/02_arrays/01_1-D_arrays/_06_PairsInArrays.java)
 
 ---
 
@@ -95,7 +100,7 @@ Time: O(log n)
 
 > Generate all subarrays
 
-🔗 [code]()
+🔗 [code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/02_arrays/01_1-D_arrays/_07_Subarrays.java)
 
 ---
 
@@ -103,10 +108,16 @@ Time: O(log n)
 
 `[Hard | O(n³)]`
 
-🔗 [code]()
+🔗 [code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/02_arrays/01_1-D_arrays/_08_MaxSubarrayBruteForce.java)
 
 ---
+## 🔴 08 Maximum Subarray Sum (prefix sum)
 
+`[Hard | O(n³)]`
+
+🔗 [code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/02_arrays/01_1-D_arrays/_09_MaxSubarrayPrefix.java)
+
+---
 ## 🔴 09 Maximum Subarray Sum (Kadane’s Algo)
 
 `[Hard | Greedy + DP ⚡]`
@@ -115,7 +126,7 @@ Time: O(log n)
 Key: maxEndingHere + maxSoFar
 ```
 
-🔗 [code]()
+🔗 [code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/02_arrays/01_1-D_arrays/_10_MaxSubarraykadane.java)
 
 ---
 
@@ -140,6 +151,7 @@ Key: maxEndingHere + maxSoFar
 🔗 [code]()
 
 ---
+<!--
 
 ## 🔴 12 Prefix Sum Array
 
@@ -149,13 +161,6 @@ Key: maxEndingHere + maxSoFar
 
 🔗 [code]()
 
----
-
-## 🔴 13 Maximum Subarray (Prefix Sum)
-
-`[Hard | Optimization]`
-
-🔗 [code]()
 
 ---
 
@@ -177,7 +182,7 @@ Key: maxEndingHere + maxSoFar
 
 🔗 [code]()
 
----
+--->
 
 ## ⚙️ Key Concepts
 
