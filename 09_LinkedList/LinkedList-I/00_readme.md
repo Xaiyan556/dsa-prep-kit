@@ -45,7 +45,7 @@ Before: 2 → 3 → 4
 After:  1 → 2 → 3 → 4
 ```
 
-🔗 [code]()
+🔗 [code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/09_LinkedList/LinkedList-I/addFirst.java)
 
 ---
 
@@ -60,7 +60,7 @@ Before: 1 → 2 → 3
 After:  1 → 2 → 3 → 4
 ```
 
-🔗 [code]()
+🔗 [code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/09_LinkedList/LinkedList-I/addLast.java)
 
 ---
 
@@ -91,7 +91,7 @@ Before: 1 → 2 → 3
 After:  2 → 3
 ```
 
-🔗 [code]()
+🔗 [code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/09_LinkedList/LinkedList-I/removeFirst.java)
 
 ---
 
@@ -106,7 +106,7 @@ Before: 1 → 2 → 3
 After:  1 → 2
 ```
 
-🔗 [code]()
+🔗 [code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/09_LinkedList/LinkedList-I/removeLast.java)
 
 ---
 
@@ -137,9 +137,9 @@ Input: key = 3
 Output: Found
 ```
 - Search in Linked List(Iterative)
-🔗 [code]()
+🔗 [code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/09_LinkedList/LinkedList-I/iterativeSearch.java)
 - Search in Linked List (Recursive)
-🔗 [code]()
+🔗 [code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/09_LinkedList/LinkedList-I/recursiveSearch.java)
 ---
 
 ## 🟡 09 Length of Linked List(size of LL)
