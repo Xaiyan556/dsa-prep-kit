@@ -19,7 +19,7 @@
 
 ---
 
-## 🟢 01 Create & Traverse Linked List
+## 🟢 01 Create & Traverse Linked List & print LL
 
 `[Easy | Basics]`
 
@@ -49,7 +49,7 @@ After:  1 → 2 → 3 → 4
 
 ---
 
-## 🟢 03 Insert at End
+## 🟢 03 Insert at End(add last method)
 
 `[Easy | Traversal]`
 
@@ -64,7 +64,7 @@ After:  1 → 2 → 3 → 4
 
 ---
 
-## 🟡 04 Insert at Position
+## 🟡 04 Insert at Position(add in middle method)
 
 `[Medium | Pointer Manipulation]`
 
@@ -80,7 +80,7 @@ After:  1 → 2 → 9 → 3
 
 ---
 
-## 🟢 05 Delete from Beginning
+## 🟢 05 Delete from Beginning(Remove First Node )
 
 `[Easy | Head Update]`
 
@@ -95,7 +95,7 @@ After:  2 → 3
 
 ---
 
-## 🟢 06 Delete from End
+## 🟢 06 Delete from End(Remove last Node )
 
 `[Easy | Traversal]`
 
@@ -110,7 +110,7 @@ After:  1 → 2
 
 ---
 
-## 🟡 07 Delete at Position
+## 🟡 07 Delete at Position(Remove middle Node )
 
 `[Medium | Pointer Handling]`
 
@@ -136,12 +136,13 @@ After:  1 → 2
 Input: key = 3  
 Output: Found
 ```
-
+- Search in Linked List(Iterative)
 🔗 [code]()
-
+- Search in Linked List (Recursive)
+🔗 [code]()
 ---
 
-## 🟡 09 Length of Linked List
+## 🟡 09 Length of Linked List(size of LL)
 
 `[Medium | Iteration]`
 
@@ -156,7 +157,7 @@ Output: 5
 
 ---
 
-## 🟡 10 Reverse Linked List (Iterative)
+## 🟡 10 Reverse a Singly Linked List (Iterative)
 
 `[Medium | Pointer Reversal 🔥]`
 
@@ -171,7 +172,7 @@ After:  4 → 3 → 2 → 1
 
 ---
 
-## 🔴 11 Reverse Linked List (Recursive)
+## 🔴 11 Reverse a Singly Linked List (Recursive)
 
 `[Hard | Recursion + Pointers]`
 
