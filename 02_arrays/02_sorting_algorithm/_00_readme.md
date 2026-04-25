@@ -26,7 +26,7 @@
 
 ## 🟢 01 Bubble Sort
 
-`[Easy | Brute Force]`
+`easy| [✔] `
 
 > Repeatedly swap adjacent elements
 
@@ -40,7 +40,7 @@ Time: O(n²)
 
 ## 🟢 02 Selection Sort
 
-`[Easy | Selection]`
+`easy+| [✔] `
 
 > Pick minimum and place it
 
@@ -54,7 +54,7 @@ Time: O(n²)
 
 ## 🟢 03 Insertion Sort
 
-`[Easy | Incremental Build]`
+`medium| [✔] `
 
 > Insert element in sorted part
 
