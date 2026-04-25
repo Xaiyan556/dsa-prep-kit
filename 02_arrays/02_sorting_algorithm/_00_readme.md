@@ -34,7 +34,7 @@
 Time: O(n²)
 ```
 
-🔗 [code]()
+🔗 [code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/02_arrays/02_sorting_algorithm/_01_BubbleSort.java)
 
 ---
 
@@ -48,7 +48,7 @@ Time: O(n²)
 Time: O(n²)
 ```
 
-🔗 [code]()
+🔗 [code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/02_arrays/02_sorting_algorithm/_02_SelectionSort.java)
 
 ---
 
@@ -63,7 +63,7 @@ Best: O(n)
 Worst: O(n²)
 ```
 
-🔗 [code]()
+🔗 [code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/02_arrays/02_sorting_algorithm/_03_InsertionSort.java)
 
 ---
 
@@ -107,7 +107,7 @@ Worst: O(n²)
 Time: O(n + k)
 ```
 
-🔗 [code]()
+🔗 [code](https://github.com/Xaiyan556/dsa-prep-kit/blob/main/02_arrays/02_sorting_algorithm/_04_CountingSort.java)
 
 ---
 <!--
