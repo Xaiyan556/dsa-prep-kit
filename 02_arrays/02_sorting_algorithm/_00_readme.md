@@ -110,7 +110,7 @@ Time: O(n + k)
 🔗 [code]()
 
 ---
-
+<!--
 ## 🔴 07 Radix Sort
 
 `[Hard | Digit-based]`
@@ -143,7 +143,7 @@ Time: O(n log n)
 
 🔗 [code]()
 
----
+--->
 
 ## ⚙️ Key Concepts
 
@@ -198,14 +198,6 @@ Heap-based Sorting
 
 > Sorting is not just about order…
 > it’s about **enabling faster operations later (search, grouping, etc.)**
-
----
-
-## 🚀 What’s Next?
-
-* 🔍 Searching Algorithms (Binary Search)
-* 📊 Arrays + Sorting combos
-* ⚡ Greedy & Interval problems (require sorting)
 
 ---
 
